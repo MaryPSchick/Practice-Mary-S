@@ -1,2 +1,2 @@
-# Practice - Mary S
+# Practice
 this is just practice :)
