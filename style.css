@@ -1,11 +1,22 @@
-h1, h2{
+p{
   font-family: lora; 
-  color: #1D1A05; 
+  color: #837569; 
   font-size: 14px; 
   text-align:center;
   
 }
 body{
-  backround-color: #B7B6C2;
+  background-color: #C9D5B5;
 }
- 
+ h1,h2{
+ 	font-family: lora; 
+  color: #433E3F; 
+  font-size: 20px; 
+  text-align:center;
+ }
+ ul,ol{
+ 	font-family: lora; 
+  color: #78586F; 
+  font-size: 14px; 
+  text-align:left;
+ }
